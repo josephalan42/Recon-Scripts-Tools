@@ -15,4 +15,4 @@ This Bash script performs domain enumeration using amass, sorts and processes th
 ## Usage
 
 ```bash
-./domain_enumeration.sh <url>
+./recon_auto.sh <url>
