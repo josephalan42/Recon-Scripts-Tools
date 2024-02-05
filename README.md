@@ -17,5 +17,4 @@ This Bash script performs domain enumeration using amass, sorts and processes th
 ```bash
 ./recon_auto.sh <url>
 
-```bash
 ./nslookup.sh > ns.txt
